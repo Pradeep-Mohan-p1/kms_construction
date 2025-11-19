@@ -75,7 +75,7 @@ Please contact me at your earliest convenience.`;
         setSubmitStatus("success");
 
         // Open WhatsApp with pre-filled message
-        const phoneNumber = "919876543210";
+        const phoneNumber = "919384743668";
         const message = generateWhatsAppMessage();
         window.open(
           `https://wa.me/${phoneNumber}?text=${message}`,

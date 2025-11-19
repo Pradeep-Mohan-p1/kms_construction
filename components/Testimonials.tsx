@@ -20,7 +20,7 @@ const testimonials = [
   },
   {
     id: 3,
-    name: "Mohan Reddy",
+    name: "Kumar",
     location: "Namakkal",
     rating: 5,
     text: "Best tile dealers in Namakkal! They helped us choose the perfect tiles and installed them perfectly. Very satisfied with the service.",

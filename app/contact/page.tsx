@@ -7,8 +7,8 @@ import { Phone, Mail, MapPin, MessageCircle } from "lucide-react";
 // For SEO, consider making this a server component or adding metadata in layout
 
 export default function Contact() {
-  const phoneNumber = "9790055908";
-  const email = "pradeepmohan1205.com";
+  const phoneNumber = "9384743668";
+  const email = "pradeepmohan1205@gmail.com";
 
   const handleWhatsApp = () => {
     const message = encodeURIComponent(

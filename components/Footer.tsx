@@ -85,7 +85,7 @@ export default function Footer() {
                   href="mailto:info@kmsconstruction.com"
                   className="hover:text-primary-400 transition-colors"
                 >
-                  info@kmsconstruction.com
+                  pradeepmohan1205@gmail.com
                 </a>
               </li>
             </ul>
